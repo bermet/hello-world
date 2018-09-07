@@ -1,2 +1,3 @@
 das isz die erste Dateidas isz die erste Datei!
  das ist test von git hub zu local.
+Nummer 3
